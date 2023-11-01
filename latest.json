@@ -1,0 +1,9 @@
+{
+  "version": "1.19.30.04",
+  "date": "2022-09-14T21:27:34.000Z",
+  "latest": true,
+  "url": {
+    "win32": "https://minecraft.azureedge.net/bin-win/bedrock-server-1.19.30.04.zip",
+    "linux": "https://minecraft.azureedge.net/bin-linux/bedrock-server-1.20.40.01.zip"
+  }
+}
