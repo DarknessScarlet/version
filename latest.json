@@ -1,9 +1,9 @@
 {
-  "version": "1.20.41.02",
-  "date": "November 2, 2023",
+  "version": "1.20.50.03",
+  "date": "December 6, 2023",
   "latest": true,
   "url": {
-    "win32": "https://minecraft.azureedge.net/bin-win/bedrock-server-1.20.41.02.zip",
-    "linux": "https://minecraft.azureedge.net/bin-linux/bedrock-server-1.20.41.02.zip"
+    "win32": "https://minecraft.azureedge.net/bin-win/bedrock-server-1.20.50.03.zip",
+    "linux": "https://minecraft.azureedge.net/bin-linux/bedrock-server-1.20.50.03.zip"
   }
 }
